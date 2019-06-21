@@ -1,7 +1,7 @@
 function [ x ] = f_bialpha_gaussian( n, q_d, alpha1,alpha2,l0)
 
 % alpha2 and l0 are not used in the code
-
+% confirmed by Leandro
 % Purpose:
 %     Generates a discrete colored noise vector of size n with power 
 %     spectrum distribution of alpha1
